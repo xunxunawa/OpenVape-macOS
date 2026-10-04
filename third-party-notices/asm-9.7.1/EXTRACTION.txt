@@ -1,0 +1,7 @@
+Extracted from local build/macos/deps JARs only; no network access was used.
+Source: build/macos/deps/asm-9.7.1.jar
+Source: build/macos/deps/asm-analysis-9.7.1.jar
+Source: build/macos/deps/asm-commons-9.7.1.jar
+Source: build/macos/deps/asm-tree-9.7.1.jar
+Source: build/macos/deps/asm-util-9.7.1.jar
+No META-INF LICENSE/NOTICE/COPYING entry was present in: asm-9.7.1.jar, asm-analysis-9.7.1.jar, asm-commons-9.7.1.jar, asm-tree-9.7.1.jar, asm-util-9.7.1.jar. This records absence from these archives only; it is not a legal conclusion.

@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Implementation-Title: Utilities for ASM, a very small and fast Java byte
+ code manipulation framework
+Implementation-Version: 9.7.1
+Bundle-DocURL: http://asm.ow2.org
+Bundle-License: BSD-3-Clause;link=https://asm.ow2.io/LICENSE.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: org.objectweb.asm.util
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-SymbolicName: org.objectweb.asm.util
+Bundle-Version: 9.7.1
+Export-Package: org.objectweb.asm.util;version="9.7.1";uses:="org.object
+ web.asm,org.objectweb.asm.signature,org.objectweb.asm.tree,org.objectwe
+ b.asm.tree.analysis"
+Import-Package: org.objectweb.asm;version="9.7.1",org.objectweb.asm.sign
+ ature;version="9.7.1",org.objectweb.asm.tree;version="9.7.1",org.object
+ web.asm.tree.analysis;version="9.7.1"
+Module-Requires: org.objectweb.asm;transitive=true,org.objectweb.asm.tre
+ e;transitive=true,org.objectweb.asm.tree.analysis;transitive=true
+

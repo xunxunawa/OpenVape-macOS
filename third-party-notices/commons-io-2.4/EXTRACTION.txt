@@ -1,0 +1,2 @@
+Extracted from local build/macos/deps JARs only; no network access was used.
+Source: build/macos/deps/commons-io-2.4.jar

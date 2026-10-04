@@ -1,0 +1,9 @@
+/build/
+/dist/
+*.zip
+.DS_Store
+/config/
+/reports/
+*.log
+__pycache__/
+*.pyc

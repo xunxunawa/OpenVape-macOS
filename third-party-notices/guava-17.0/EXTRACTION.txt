@@ -1,0 +1,3 @@
+Extracted from local build/macos/deps JARs only; no network access was used.
+Source: build/macos/deps/guava-17.0.jar
+No META-INF LICENSE/NOTICE/COPYING entry was present in: guava-17.0.jar. This records absence from these archives only; it is not a legal conclusion.
